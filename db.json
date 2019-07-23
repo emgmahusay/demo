@@ -1,33 +1,11 @@
 {
-  "field": "Tahiti",
-  "reservoirs": [
-    "M17",
-    "M21"
-  ],
-  "model_objective": [
-    "BPlan"
-  ],
-  "year": [
-    2017
-  ],
-  "models_list": [
+  "posts": [
     {
-      "id": "1",
-      "name": "model 1",
-      "case_prob": "P10",
-      "last_run_date": "2017-03-19T07:22Z"
-    },
-    {
-      "id": "2",
-      "name": "model 2",
-      "case_prob": "P50",
-      "last_run_date": "2017-05-20T07:22Z"
-    },
-    {
-      "id": "3",
-      "name": "model 3",
-      "case_prob": "P90",
-      "last_run_date": "2017-05-20T07:22Z"
+      "id": 1,
+      "title": "hellddsafdfssfdfo"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

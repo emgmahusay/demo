@@ -4,24 +4,16 @@
     {
       "name": "Anchor",
       "displayName": "Anchor",
-      "connectionStringName": "AnchorChevronIamConnectionString-PROD",
-      "appAdminGroup": "8016f63a-7575-4f23-a476-566c2fb61c67,60eb2794-e5fc-4eab-a3fd-3287751a502c",
-      "appAssetGroup": "5e01ab94-da4b-4341-a2f0-51126fa40c48",
-      "isVisible": true,
+     
       "assetModelType": [    
         {
           "modelTypeID": "C9E8D35C-B57E-4D1C-9C01-86F40EDEEF77",
-          "name": "REVEAL",
-          "rootNode": "Reservoir Simulation Models",
-          "storProcName": "Model_Summary_RevealModels_Read",
-          "isVisible": true
+          "name": "REVEAL"
+        
         },
         {
           "modelTypeID": "023DFB89-D2BB-47FE-A40E-9B7CA7E4BDC9",
-          "name": "INTERSECT",
-          "rootNode": "Reservoir Simulation Models",
-          "storProcName": "Model_Summary_IntersectModels_Read",
-          "isVisible": true
+          "name": "INTERSECT"
         }
       ],
       "selectedFilterDecisionFrameIds": null
